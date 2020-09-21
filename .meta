@@ -1,5 +1,8 @@
 {
   "projects": {
-    "web/flash-card-app": "https://github.com/iagosergiop93/flash-card-app.git"
+    "web/flash-card-app": "https://github.com/iagosergiop93/flash-card-app.git",
+    "server/flash-card-gateway": "https://github.com/iagosergiop93/flash-card-gateway.git",
+    "server/flash-card-eureka": "https://github.com/iagosergiop93/flash-card-eureka.git",
+    "server/flash-card-config-server": "https://github.com/iagosergiop93/flash-card-config-server.git"
   }
 }

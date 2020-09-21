@@ -1,1 +1,5 @@
 /web/flash-card-app/
+/flash-card-gateway/
+/server/flash-card-gateway/
+/server/flash-card-eureka/
+/server/flash-card-config-server/

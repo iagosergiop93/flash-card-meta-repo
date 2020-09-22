@@ -3,3 +3,5 @@
 /server/flash-card-gateway/
 /server/flash-card-eureka/
 /server/flash-card-config-server/
+/external-config/
+/.metadata/

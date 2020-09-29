@@ -5,3 +5,5 @@
 /server/flash-card-config-server/
 /external-config/
 /.metadata/
+/web/
+/web/flash-card-app/
